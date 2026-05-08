@@ -1,4 +1,4 @@
-# Exposiciones-grupo-611-S1
+# Exposiciones-grupo-611-S1 - 14 de Mayo 2026
 
 Grupo 1. [Carlos Valencia y Julieth Candamil]
   - Explain hoisting in JavaScript.
@@ -52,10 +52,10 @@ Grupo 7. [Kenneth Velasco - Diego Cano y Felipe Colonia]
   - Explain what CORS means in Express.
   - Include a practice exercise.
 
-Grupo 8. [Juan David Paz - Deiby Alejandro Rodriguez]
+Grupo 8. [Juan David Paz - Deiby Alejandro Rodriguez - Ronny Mauricio]
   - MERN - Mongo - Express - React - Node
   - Agregar ejemplo en repositorio
 
-Grupo 9. [Hector Perea - Luis Huila]
+Grupo 9. [Hector Perea - Luis Huila - Juan Pablo Urbano]
  - MEAN - Mongo - Express - Angular - Node
  - Agregar ejemplo en repositorio
