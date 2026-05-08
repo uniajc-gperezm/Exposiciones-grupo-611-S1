@@ -56,6 +56,6 @@ Grupo 8. [Juan David Paz - Deiby Alejandro Rodriguez - Ronny Mauricio]
   - MERN - Mongo - Express - React - Node
   - Agregar ejemplo en repositorio
 
-Grupo 9. [Hector Perea - Luis Huila - Juan Pablo Urbano]
+Grupo 9. [Hector Perea - Luis Huila - Juan Pablo Urbano - Isabella Holguin]
  - MEAN - Mongo - Express - Angular - Node
  - Agregar ejemplo en repositorio
